@@ -27,7 +27,7 @@ pkg install git -y
 
 pkg install php -y
 
-git clone https://github.com/Jota99/kitFish.git
+git clone https://github.com/jota990/kitFish.git
 
 cd Kit
 
