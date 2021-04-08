@@ -29,7 +29,7 @@ pkg install php -y
 
 git clone https://github.com/jota990/kitFish.git
 
-cd Kit
+cd KitFish
 
 bash kitfish.sh
 
